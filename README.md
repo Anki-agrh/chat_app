@@ -6,7 +6,7 @@ Based on the files you provided, here is a suitable description to add to your G
 
 ---
 
-**Project Description**
+**Project's Description**
 
 This project is a Python-based **Computer Network Chatting Application** that allows real-time communication between users over a network using **socket programming**. The app consists of a server-client architecture where the server manages multiple client connections, enabling users to chat with each other in a secure environment.
 
