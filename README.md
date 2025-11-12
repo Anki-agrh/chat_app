@@ -26,7 +26,7 @@ This project is a Python-based **Computer Network Chatting Application** that al
 ### Installation Instructions:
 1. Clone this repository to your local machine.
    ```
-   git clone   https://github.com/Saad00SD/chat-app-computer-networks.git
+   git clone   https://github.com/Anki-agrh/chat-app.git
    ```
 2. Navigate to the project directory and install any dependencies (if any).
    ```
